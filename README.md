@@ -3,3 +3,5 @@
 ### [ML qualification](https://github.com/vlbudaeva/VK-cup-2022/tree/main/step_1_%20qualification)
 
 <img src="https://github.com/vlbudaeva/VK-cup-2022/blob/main/results/step1.png" width="450">
+
+### [](https://github.com/vlbudaeva/VK-cup-2022/tree/main/step_2)
